@@ -1,1 +1,10 @@
-myvar = "test123def"
+myvar = [[
+
+<html>
+<body>
+Hello, World
+</body>
+</html>
+
+
+]]
